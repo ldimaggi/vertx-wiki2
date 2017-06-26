@@ -14,7 +14,7 @@
       </h1>
 
       <div class="col-md-12 mt-1 clearfix">
-        ${context.title}
+        ${context.content}
       </div>
 
       <div class="col-md-12 collapsable collapse clearfix" id="editor">
